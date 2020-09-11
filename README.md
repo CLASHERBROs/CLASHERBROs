@@ -12,7 +12,7 @@ I'm an __iOS__ and __frontend developer__ based in __India__. I love to develop 
 * 📫 Contact me [@paritosh-arora](https://www.linkedin.com/in/paritosh-arora-442819108/)
 
 
-## My skills and currently learning
+## My skills are 
 
 <table>
   <tbody>

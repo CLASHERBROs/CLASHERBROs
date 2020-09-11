@@ -8,7 +8,7 @@
 
 I'm a __frontend developer__ ,__iOS Developer__ and __Blogger__ based in __India__. I love to develop and currently I am adjusting to competitive programming. 
 
-* ✍🏻 You can view my portfolio at [paritosh-arora](https://www.clasherbros.github.io) <br/>
+* ✍🏻 You can view my portfolio at [paritosh arora](https://clasherbros.github.io/) <br/>
 * 📫 Contact me [@paritosh-arora](https://www.linkedin.com/in/paritosh-arora-442819108/)
 
 

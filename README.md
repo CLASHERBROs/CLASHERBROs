@@ -22,7 +22,7 @@ I'm a __frontend developer__ ,__iOS Developer__ and __Blogger__ based in __India
         <img height="64px" src="https://cdn.svgporn.com/logos/swift.svg">
       </td>
         <td width="25%" align="center">
-        <span><strong>React Native</strong></span><br><br><br>
+        <span><strong>Native</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
         <td width="25%" align="center">

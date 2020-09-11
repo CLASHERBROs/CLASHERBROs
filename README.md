@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/paritosh-arora-442819108/">Linkedin</a>
 </p>
 
-I'm an __iOS __ and __frontend developer__ based in __India__. I love to develop and currently I am adjusting to competitive programming. 
+I'm an __iOS__ and __frontend developer__ based in __India__. I love to develop and currently I am adjusting to competitive programming. 
 
 * ✍🏻 You can view my portfolio at [paritosh arora](https://clasherbros.github.io/) <br/>
 * 📫 Contact me [@paritosh-arora](https://www.linkedin.com/in/paritosh-arora-442819108/)

@@ -58,7 +58,7 @@ I'm an __iOS__ and __frontend developer__ based in __India__. I love to develop 
 </table>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api/?username=CLASHERBROs&theme=radical&show_icons=true&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api/?username=CLASHERBROs&theme=radical&show_icons=true&count_private=true)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLASHERBROs&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
